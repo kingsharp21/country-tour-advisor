@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/country-tour-advisor/static/js/main.23d4b0b8.js",
+    "main.js": "/country-tour-advisor/static/js/main.04192acc.js",
     "index.html": "/country-tour-advisor/index.html",
-    "main.23d4b0b8.js.map": "/country-tour-advisor/static/js/main.23d4b0b8.js.map"
+    "main.04192acc.js.map": "/country-tour-advisor/static/js/main.04192acc.js.map"
   },
   "entrypoints": [
-    "static/js/main.23d4b0b8.js"
+    "static/js/main.04192acc.js"
   ]
 }
