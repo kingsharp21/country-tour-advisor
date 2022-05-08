@@ -10,7 +10,7 @@ function Header() {
     return (
         <AppBar className={classes.nav} position="static">
             <Toolbar className={classes.toolbar}>
-                <Typography variant="h5" className={classes.title}>Travel Advisor</Typography>
+                <Typography variant="h5" className={classes.title}>Travel Companion</Typography>
                 <Box display="flex">
                     <Typography variant="h6" className={classes.title}>
                         Explore new places

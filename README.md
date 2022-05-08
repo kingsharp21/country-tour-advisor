@@ -23,7 +23,7 @@ Built Travel Companion Application using **`Google Maps.`** With Geolocation, Go
 ---
 
 ### ✔ Note importance
-Google map view is dark because i am using the free plan and not the payment plan😢 for using google api, but u can still find your way arround it isn't that dark
+Google map view is dark because i am using the free plan and not the payment plan😢 for using google api, but you can still find your way arround it isn't that dark
 ### 🛠 Technologies used
 
 - React.js
